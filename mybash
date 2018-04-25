@@ -1,0 +1,2 @@
+alias l='ls -lhrt'
+alias ll='ls -lhrt'
